@@ -3,34 +3,17 @@ header{
 }
 footer{
     width: 100%;
-    background: #5A967B;
+    background: #51856d;
     color: white;       
 }
-  
-.container-footer-oll{
-    width: 100%;
-    
-    margin: auto;
-    padding: 40px;    
-}
-  
-.body-footer{
-    
-    display: flex;
-    justify-content: space-between;  
-}
-.columna-2{
-    max-width: 400px;     
-}
-  
-.columna-2 h2{
-    font-size: 22px;
-    font-weight: bold;
-    color: #1D382A; 
-}
-  
-.row-footer{
+.row{
     display: flex;
     flex-wrap: wrap;
-    margin-top: 20px; 
+    margin: 20px; 
+}
+.link{
+    color: black;
+}
+.copyright{
+    color: white;
 }
